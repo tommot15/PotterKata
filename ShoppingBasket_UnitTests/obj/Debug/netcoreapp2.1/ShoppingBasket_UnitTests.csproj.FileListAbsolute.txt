@@ -1,0 +1,16 @@
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.deps.json
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.runtimeconfig.json
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.dll
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.pdb
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\bin\Debug\netcoreapp2.1\ShoppingBasket.pdb
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\obj\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\obj\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\obj\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\obj\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.AssemblyInfo.cs
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\obj\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.dll
+C:\Users\Tom\source\repos\ShoppingBasket\ShoppingBasket_UnitTests\obj\Debug\netcoreapp2.1\ShoppingBasket_UnitTests.pdb
